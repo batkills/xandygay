@@ -1,0 +1,18 @@
+.SatoruGojo{
+
+  width: 450px;  
+  height: 300px;
+}
+p{
+  color: rgb(132, 0, 255);
+}
+
+p:hover {
+  color: red;
+  transition: 0.3s; 
+}
+#finalizacao {
+  color: blue; /* Muda a cor do texto */
+  font-size: 20px; /* Aumenta o tamanho da fonte */
+ 
+}
