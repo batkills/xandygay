@@ -16,3 +16,28 @@ p:hover {
   font-size: 20px; /* Aumenta o tamanho da fonte */
  
 }
+
+.bosta{
+  color:rgb(255, 0, 136)
+  
+}
+
+.URUBUZADA{
+  background-size: 5000px;
+}
+
+
+li{
+  font-family: Arial; /* muda a fonte para Arial */ 
+  font-size: 40px; /* tamanho da fonte */
+  
+}
+body {
+  margin: 60px;
+  padding: 60px;
+  height: 100vh; /* Garantir que a altura da página ocupe toda a altura da tela */
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4_cfe_ZM15Cs0umK3rwc2S-Ema9moqKvqg&s'); /* Caminho da sua imagem */
+  background-size: cover; /* Faz a imagem cobrir toda a tela */
+  background-position: center; /* Alinha a imagem ao centro da página */
+  background-repeat: no-repeat; /* Impede que a imagem se repita */
+}
