@@ -1,0 +1,10 @@
+
+body {
+    margin: 60px;
+    padding: 60px;
+    height: 100vh; /* Garantir que a altura da página ocupe toda a altura da tela */
+    background-image: url("https://muramasa.com.br/wp-content/uploads/2024/09/Jujutsu-Kaisen-AnimeNew-2.webp");
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-position: center; /* Alinha a imagem ao centro da página */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+  }
